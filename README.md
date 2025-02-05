@@ -7,7 +7,7 @@ This is the future site of Erin's audio narrative
 * Light background music for the entirety of this section
 * Chatting with a co worker
 * Chef calls out name for food being ready
-* Sounds of the plates 
+* Sounds of the plates
 
 # Transition to dining room  
 
@@ -24,3 +24,9 @@ This is the future site of Erin's audio narrative
 * Dining room music fades out, kitchen music fades back in  
 * Pick up the conversation with co worker
 * All sounds fade out slowly
+
+Changing my audio idea- I'm going to do the beach cause that is my favorite place. Im doing wave sounds, my dog running and barking, me calling his name, then a storm coming in and us leaving the beach. Storms at the beach are always the best! Smells like wet dog car door slam yeaaaaa!
+
+|orlandorizo|Ocean waves|https://freesound.org/people/orlandorizo/sounds/588366/ |Creative Commons 0|
+
+|Snapper4298|seagull 2.wav|https://freesound.org/people/Snapper4298/sounds/166707/ |Creative Commons 0|
