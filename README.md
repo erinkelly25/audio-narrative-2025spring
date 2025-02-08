@@ -45,3 +45,7 @@ Not being used for commercial purposes and credit is to: KamilNaidoo23
 
 |Arctura|AMBIENT - Rain - Under Plastic Overhang (LOOP).mp3|https://freesound.org/people/Arctura/sounds/34071/ |Attribution 3.0|
 Credit to: Arctura
+
+I added two of my own sounds.
+
+Project complete: Warning- headphone users beware of loud voice at the end. It is for dramtic effect!
