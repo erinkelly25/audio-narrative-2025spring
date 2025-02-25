@@ -1,31 +1,6 @@
-command s to save
 This is the future site of Erin's audio narrative
-# Order
 
-# Start in kitchen  
-
-* Light background music for the entirety of this section
-* Chatting with a co worker
-* Chef calls out name for food being ready
-* Sounds of the plates
-
-# Transition to dining room  
-
-* Kitchen music fades out and background dining room music fades in alongside chatter for the entirety of this section
-* Footsteps  
-* Greet table and give out food, ask if there's anything else I can get for them- they say another sprite
-* Footsteps  
-* Sound of cup, ice, drink pour
-* Footsteps
-* Here you go! Enjoy!  
-* Footsteps
-
-# Transition back to kitchen  
-* Dining room music fades out, kitchen music fades back in  
-* Pick up the conversation with co worker
-* All sounds fade out slowly
-
-Changing my audio idea- I'm going to do the beach cause that is my favorite place. Im doing wave sounds, my dog running and barking, me calling his name, then a storm coming in and us leaving the beach. Storms at the beach are always the best! Smells like wet dog car door slam yeaaaaa!
+I'm going to do the beach cause that is my favorite place. Im doing wave sounds, my dog running and barking, me calling his name, then a storm coming in and us leaving the beach. Storms at the beach are always the best! Smells like wet dog car door slam!
 
 |orlandorizo|Ocean waves|https://freesound.org/people/orlandorizo/sounds/588366/ |Creative Commons 0|
 
@@ -48,4 +23,6 @@ Credit to: Arctura
 
 I added two of my own sounds.
 
-Project complete: Warning- headphone users beware of loud voice at the end. It is for dramtic effect!
+Project complete: This audio narrative depicts a beach day with myself, my dog, and my brother. It starts with ocean waves and seagulls to indicate the location. Then.... a loud lighting bolt followed by rain, dog barking, and footsteps running to the car. The car is indicated by the slam door and change of rain sounds. Then all of a sudden a tornado forms- my own audio is used at this point in order for speaking parts to happen. Hope you enjoy!
+
+Warning- headphone users beware of loud voice at the end. It is for dramtic effect!
